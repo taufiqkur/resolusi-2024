@@ -1,0 +1,5 @@
+dasar: apa itu client? apa itu server? dan selengkapnya
+git & github: cara kerjanya? bagaimana menggunakannya?
+html
+css
+js
